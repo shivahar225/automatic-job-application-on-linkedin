@@ -5,7 +5,7 @@ from selenium.webdriver.common.by import By
 import time
 
 ACCOUNT_EMAIL = "shivahar225@gmail.com"
-ACCOUNT_PASSWORD = "SHIVAhar@$123!"
+ACCOUNT_PASSWORD = "SHI123!"
 PHONE = "9705644653"
 
 
